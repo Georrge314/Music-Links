@@ -1,0 +1,72 @@
+[
+  {
+    "name": "About Me",
+    "image": "https://i.imgur.com/EfXnYTb.jpeg",
+    "link": "Link 1"
+  },
+  {
+    "name": "Driven Pain",
+    "image": "https://i.imgur.com/Z5shf5M.jpeg",
+    "link": "Img 2"
+  },
+  {
+    "name": "For Love",
+    "image": "https://i.imgur.com/mUQedyq.jpeg",
+    "link": "Img 3"
+  },
+  {
+    "name": "Good Vibes",
+    "image": "https://i.imgur.com/KCRXhEI.png",
+    "link": "Img 4"
+  },
+  {
+    "name": "Imagination",
+    "image": "https://i.imgur.com/QjCtGat.jpeg",
+    "link": "Img 5"
+  },
+  {
+    "name": "Lose Ourselves",
+    "image": "https://i.imgur.com/fuhEgkU.jpeg",
+    "link": "Img 6"
+  },
+  {
+    "name": "Lost My Mind",
+    "image": "https://i.imgur.com/48CGWy6.jpeg",
+    "link": "Img 7"
+  },
+  {
+    "name": "Mistakes",
+    "image": "https://i.imgur.com/pUuqLZT.png",
+    "link": "Img 8"
+  },
+  {
+    "name": "My Soul",
+    "image": "https://i.imgur.com/zREbHNs.jpeg",
+    "link": "Img 9"
+  },
+  {
+    "name": "Show Me Love",
+    "image": "https://i.imgur.com/OXGq4LG.png",
+    "link": "Img 10"
+  },
+  {
+    "name": "Together",
+    "image": "https://i.imgur.com/IcMbXI2.jpeg",
+    "link": "Img 11"
+  },
+  {
+    "name": "Top G",
+    "image": "https://i.imgur.com/XtxbVuL.jpeg",
+    "link": "Img 12"
+  },
+  {
+    "name": "Wicked Game",
+    "image": "https://i.imgur.com/oArbjxo.jpeg",
+    "link": "Img 13"
+  },
+  {
+    "name": "Without You",
+    "image": "https://i.imgur.com/7pXKfCl.jpeg",
+    "link": "Img 14"
+  }
+]
